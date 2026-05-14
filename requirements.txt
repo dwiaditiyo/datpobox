@@ -1,0 +1,4 @@
+pygame
+gphoto2
+qrcode
+Pillow
